@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Çağlayan 👋</h1>
 
 <p align="center">
-  💻 Python Developer | 📊 Data Tools Builder | 🚀 Automation Enthusiast  
+  🏢 ERP Software Specialist | 💻 Python Developer | 📊 Data Tools Builder | 🚀 Automation Enthusiast
 </p>
 
 ---
