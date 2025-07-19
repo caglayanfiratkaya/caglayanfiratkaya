@@ -15,6 +15,13 @@
 
 ---
 
+### ⌛ Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### 🔍 Featured Projects
 
 - 🧠 **Z-Score Outlier Detector**  
