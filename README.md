@@ -19,19 +19,19 @@
 
 - 🧠 **Z-Score Outlier Detector**  
   Statistical anomaly detection on manufacturing or business datasets using Z-Score and SQL filtering logic.  
-  👉 [View Project](https://github.com/caglayankaya/zscore-outlier-detector) <!-- kendi linkinle değiştir -->
+  👉 [View Project](https://github.com/caglayanfiratkaya/outlier-detection-from-sql.git)
 
 - 📥 **Excel to SQL Insert Generator**  
   Streamlit-based tool to convert Excel/CSV files into bulk SQL insert statements automatically.  
-  👉 [View Project](https://github.com/caglayankaya/streamlit-sql-insert) <!-- kendi linkinle değiştir -->
+  👉 [View Project](https://github.com/caglayanfiratkaya/Spreadsheet-to-SQL-Importer.git)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=caglayankaya&show_icons=true&theme=github_dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caglayankaya&layout=compact&theme=github_dark&langs_count=6" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=caglayanfiratkaya&show_icons=true&theme=github_dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caglayanfiratkaya&layout=compact&theme=github_dark&langs_count=6" />
 </p>
 
 ---
